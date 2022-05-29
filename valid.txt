@@ -1,0 +1,3517 @@
+0	1
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
+"He is a set designer at Columbia Pictures.
+"	0
+"Diagnosis:  Left ankle fracture.
+"	0
+"This is a brief addendum to the medical record.
+"	0
+"The patient has no chest pain at the time of evaluation in the emergency department and no shortness of breath.
+"	0
+"REVIEW OF SYSTEMS:  As indicated and otherwise negative.
+"	1
+"PAST MEDICAL HISTORY:  As indicated in the chart.
+"	0
+"SOCIAL HISTORY AND FAMILY HISTORY:  As indicated in the chart.
+"	0
+"A CT is pending at the time of this dictation.
+"	0
+"His complaint of some mild chest pain (not same as anginal pain day before) thought to be from defibrillation.
+"	0
+"Esmolol drip as well as amio was stopped and BB was escalated and patient has remained in NSR.
+"	0
+"He was started on plavix.
+"	0
+"He was seen by psychiatry here.
+"	1
+"Continue depakote and lithium (had subthereapeutic level that psych thought was likely  due to non-compliance.
+"	1
+"He has remained on NPH with RISS.
+"	0
+"Cath c/b VF arrest after dye load and resultant afib with RVR.
+"	0
+"Plan:  As outlined in CCU course.
+"	0
+"Previously, in spring 2110, had L eye visual disturbance    nearly blind    went to GHIC where was dx'ed w/ retinal venous occlusion, treated w/ cortisone and laser surgery, w/ mild improvement in vision (now blurred in that eye).
+"	1
+"No problems w/ speech.
+"	1
+"Galiverdin's sign.
+"	1
+"Soft/NT/ND.
+"	1
+"Neuro:
+
+MS:	Conversationally intact.
+"	1
+"Unclear if pt is a poor historian and current sx are non-objective sensory findings and meaningful event was LUE weakness 4-5d ago.
+"	0
+"Will also send hypercoag w/u (including hypercoag panel, PT20210, Factor V Leiden, APLA, lupus anticoagulant) given hx of retinal venous thrombus and young age.
+"	0
+"DM control.
+"	0
+"Given psych hx, will check tox screen and LFT's.
+"	0
+"Allow SBP up to 180.
+"	0
+"Mood is ok now, but will need to be monitored.
+"	0
+"Checking A1c.
+"	0
